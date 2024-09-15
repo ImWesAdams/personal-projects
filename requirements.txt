@@ -1,0 +1,15 @@
+-- using python3.12.5
+-- torch
+-- torchvision
+-- torchaudio
+-- install torch from here to get proper version and cuda if available to you: https://pytorch.org/get-started/locally/
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+notebook
+ipynb
+tensorboard
+ucimlrepo
+xgboost
