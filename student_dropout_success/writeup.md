@@ -11,6 +11,7 @@ I wanted to spend no more than 1 Sunday designing two models and testing their p
 - **Feedforward Neural Network** implemented in PyTorch
 - **XGBoost** classifier
 
+## Results
 ### Feedforward Neural Network
 - **Data Preprocessing**
     - Train-test splits are made (80% - 20%)
@@ -26,7 +27,7 @@ I wanted to spend no more than 1 Sunday designing two models and testing their p
     - It's trained for 1,000 epochs on batch sizes of 32, with a Learning Rate Scheduler set to step down on plateau.
         - Training took about 20 minutes on my machine.
         - Below is an image of the accuracy over the training cycle.
-        ![Training Accuracy Graph](neural_accuracy.png)
+        ![Training Accuracy Graph](neural_accuracy.PNG)
 
 - **Performance**
     - The final test accuracy obtained was 78%.
