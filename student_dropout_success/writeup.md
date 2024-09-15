@@ -4,7 +4,7 @@
 The dataset used for this project is the ["Predict Students' Dropout and Academic Success" dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) from the UCI Machine Learning Repository. It contains various student academic performance indicators, and the goal is to predict whether a student will drop out or succeed academically.
 
 ## Background
-I've used both Neural Nets and Ensemble (Forest, XGBoost) models for some predictive analytics tasks before. In non-critical business tasks, I've tended to use Ensemble models for their ease of programming, training, and diagnosing. In this instance, I wanted to train models on the same (relatively straightforward) dataset and see which has a higher ceiling.
+I've used both Neural Nets and Ensemble (Forest, XGBoost) models for some predictive analytics tasks before. In non-critical business tasks, I've tended to use Ensemble models for their ease of programming, training, and diagnosing. In this instance, I wanted to train models on the same (relatively straightforward) dataset and see which has a higher performance ceiling.
 
 ## Objective
 I wanted to spend no more than 1 Sunday designing two models and testing their performance:
