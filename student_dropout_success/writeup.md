@@ -35,7 +35,6 @@ I wanted to spend no more than 1 Sunday designing two models and testing their p
 
 ### XGBoost Classifier
 - **Data Preprocessing**
-    - Numerical values are normalized
     - Train-test splits are made (80% - 20%)
     - Categorical variables are established as Categorical in Pandas Dataframe
 
