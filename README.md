@@ -1,1 +1,1 @@
-A repository for me to play around with various Machine Learning, Data Science, and Artifical Intelligence tasks and learnings.
+Playing around with PyTorch and XGBoost models to predict student outcomes.
