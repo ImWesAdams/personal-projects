@@ -1,4 +1,4 @@
-# Student Dropout, Graduation, and Still-Envollment Prediction
+# Student Dropout, Graduation, and Still-Enrollment Prediction
 
 ## Dataset
 The dataset used for this project is the ["Predict Students' Dropout and Academic Success" dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) from the UCI Machine Learning Repository. It contains various student academic performance indicators, and the goal is to predict whether a student will drop out or succeed academically.
